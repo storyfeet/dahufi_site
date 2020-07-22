@@ -1,14 +1,33 @@
----
-title: "Michihu Roots"
-date: 2020-07-16T10:35:22+01:00
-draft: false
-markup: "mmark"
----
+>---toml
+title = "Michihu Roots :  "
+date = 2020-07-16
+>---md
 
-Michuhu Roots :  
+Michuhu (60 Root) is built from 63 base roots, all words are a compound of these roots, and can be used to form wide set of words.
 
-|Root    	| A  \     	| I   -      	| O	/	| U  //		| Ending|
-|:-----		|:--------	|:----------	|:----------	|:----------	|:----------	 |
+For example:
+
+	Shop =  = Place Open Own Noun
+	Boy =  = Person Small Male
+
+The best place to start understanding the language is to understand the roots, as they each have their own sound and character and meaning.
+
+The main shape of each letter represents the consonant sound, indicated by the left hand column. And the stroke through the vowel sound.
+
+Phonics So the 'K - ' row on the "Roots"	 table sounds like this:
+>---table class="lang_table"
+*| PHONICS |  		|  		|  		|  		|  |
+| Primary | Ka [Cat] | Ki [King] | Ko [Kong] | Ku [coup] | K -- ending|
+| Secondary|	| kee [keep]  | Kou [Comb]| | |
+ 
+>---md
+Whether you use the primary or secondary sound is chosen on what sounds more comfortable at that position in a word. 
+
+
+ 
+>---table class="lang_table"
+*|ROOTS 	| A  \     	| I   -      	| O	/	| U  //		| Ending|
+
 |K 		| : Ident	| : Time	| :Num	| :Colour	|:Adjective|
 |D 		| : Big    	| : Own    	| :Plant	| :Mind   	|  :Noun	 |
 |Ch 	0	| : Article	| : Thing 	| :Hand	| :Zero 0	| 		 |
@@ -24,5 +43,7 @@ Michuhu Roots :  
 |Th  	| : Rest  	|: Change| :Tongue	|:Open 	| 		 |
 |Fl 		| : Ear   	| : Hit	|           	| :Air	| 		 |
 
+
+>---md
 
 

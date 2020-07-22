@@ -1,11 +1,21 @@
+>---go
 <!Doctype html>
 <html>
 <head>
+
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <title>{{.title}}</title>
 </head>
 <body>
->---go
+{{range $c := bread_crumbs "/" .pp_out_path -}}
+{{- $b := base_name_sure $c -}}
+	/ <a href="{{$c}}"> {{b_sel $b $b "home"}} </a>  
+{{- end}}
+{{if .title}}<h1>{{.title}}</h1>{{end}}
     {{.result}}
->---
 </body>
 </html>
+>---
+

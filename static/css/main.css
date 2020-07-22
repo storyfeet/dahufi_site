@@ -1,0 +1,12 @@
+
+.lang_table td:nth-child(1) , th{
+	font-weight:bold;
+	background-color:#aaaaaa;	
+}
+
+.lang_table td , .lang_table th{
+	border-width: 1px;
+	border-color:black;
+	border-style:solid solid none none;
+	padding:10px;
+}
