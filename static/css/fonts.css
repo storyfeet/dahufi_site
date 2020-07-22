@@ -1,0 +1,13 @@
+@font-face{
+    font-family:michuhu;
+    src:url("/fonts/michuhu.ttf");
+}
+
+
+html {
+    font-family:michuhu,Arial;
+}
+
+code {
+    font-family:michuhu,mono;
+}
