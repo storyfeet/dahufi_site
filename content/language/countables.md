@@ -32,12 +32,12 @@ Example Numbers:
 
     10: 
     11: 
-    12:  
+    12: 
 
 use  to raise by 10^n
 
-    100 :  
-    1000 :  
+    100 : 
+    1000 : 
     10_000 : 
 
     1500 : 
@@ -64,13 +64,13 @@ Colours
 ----------------
 Colours are build on numbers but begin with a '' and end as '' for Noun, or '' for adjective. Higher numbers largely mean a higher amount of energy.
 
-Black   :  
-Red     :  
-Orange  :  
+Black   : 
+Red     : 
+Orange  : 
 Brown   : 
 Yellow  : 
 Green   : 
-Turquose: 
+Turquoise: 
 Blue    : 
 Violet  : 
 White   : 
@@ -85,10 +85,8 @@ Regular Triangle:
 Quadrilateral : 
 Square: 
 Trapesium : 
-Parallelagram: 
-Parallel:  
+Parallelagram:
+Parallel: 
 Pentagon: 
 Pentagram: 
 Hexagon: 
-
-

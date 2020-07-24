@@ -30,20 +30,23 @@ Their   :
 Articles :
 ====================
 
-The     	: "implied"
+The		: "implied"
 A		:
 Some	:
-But     	:
-And     	:
-This    	:
-That    	:
-These   	:
-Those   	:
-All 		:  
-Whole	:  
+But     :
+And     :
+Or		:
+This	:
+That	:
+These	:
+Those	:
+All		: 
+Whole	: 
 So		: 
+Each	: 
+Without	: 
 
-Comparative:  
+Comparative: 
 ============
 
 Like me: 
@@ -69,7 +72,7 @@ Answers
 Yes: 
 No: 
 Because: 
-And So: 	
+And So: 
 
 
 
@@ -79,10 +82,4 @@ On      :
 At      :
 With : 
 Close to : 
-
-
-
-
-
-
-
+From : 

@@ -3,18 +3,9 @@ title = "Michihu Roots :  "
 date = 2020-07-16
 >---md
 
-The main shape of each letter represents the consonant sound, indicated by the left hand column. And the stroke through the vowel sound.
+The following table Shows all of the Roots in the Michuhu language
 
-Phonics So the 'K - ' row on the "Roots"	 table sounds like this:
->---table class="lang_table"
-*| PHONICS |  		|  		|  		|  		|  |
-| Primary | Ka [Cat] | Ki [King] | Ko [Kong] | Ku [coup] | K -- ending|
-| Secondary|	| kee [keep]  | Kou [Comb]| | |
- 
->---md
-Whether you use the primary or secondary sound is chosen on what sounds more comfortable at that position in a word. 
-
-
+The sound is the the Consonant followed by the vowel. More on Phonics below.
  
 >---table class="lang_table"
 *|ROOTS 	| A  \     	| I   -      	| O	/	| U  //		| Ending|
@@ -37,4 +28,13 @@ Whether you use the primary or secondary sound is chosen on what sounds more com
 
 >---md
 
+Each character has two parts. The main shape is the consonant start, and the Stroke through is the following Vowel.
+
+Both primary and secondary sounds are valid, but in general choose the one that fits best the position in the word
+
+>---table class="lang_table"
+*| PHONICS |  		|  		|  		|  		|  |
+| Primary | Ka [Cat] | Ki [King] | Ko [Kong] | Ku [coup] | K -- ending|
+| Secondary|	| kee [keep]  | Kou [Comb]| | |
+ 
 
