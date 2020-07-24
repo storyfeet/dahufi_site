@@ -3,15 +3,6 @@ title = "Michihu Roots :  "
 date = 2020-07-16
 >---md
 
-Michuhu (60 Root) is built from 63 base roots, all words are a compound of these roots, and can be used to form wide set of words.
-
-For example:
-
-	Shop =  = Place Open Own Noun
-	Boy =  = Person Small Male
-
-The best place to start understanding the language is to understand the roots, as they each have their own sound and character and meaning.
-
 The main shape of each letter represents the consonant sound, indicated by the left hand column. And the stroke through the vowel sound.
 
 Phonics So the 'K - ' row on the "Roots"	 table sounds like this:
