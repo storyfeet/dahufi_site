@@ -10,3 +10,13 @@
 	border-style:solid solid none none;
 	padding:10px;
 }
+
+.dict {
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:space-between;
+}
+
+.dict_item{
+    padding:3px;    
+}

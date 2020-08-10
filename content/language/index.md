@@ -1,7 +1,8 @@
->---toml
-title = "The Michuhu Language :  "
-date = 2020-07-16T17:13:02+01:00
->---go|md
+{{let 
+title = "The Michuhu Language :  ";
+date = "2020-07-16"
+}}
+{{@md @}}
 
 Michuhu (60 Root) is built from 63 base roots, all words are a compound of these roots, and can be used to form wide range of meanings.
 
@@ -18,7 +19,9 @@ The best place to start understanding the language is to understand the roots, a
 
 Here are the documents about the language
 
-[Roots - Start Here]({{parent .pp_out_path}}/roots.html)    
-[Articles]({{parent .pp_out_path}}/articles.html)    
-[Countables]({{parent .pp_out_path}}/countables.html)    
-[Verbs]({{parent .pp_out_path}}/verbs.html)    
+[Roots - Start Here]({{parent $0.build.out_path}}/roots.html)    
+[Articles]({{parent $0.build.out_path}}/articles.html)    
+[Countables]({{parent $0.build.out_path}}/countables.html)    
+[Verbs]({{parent $0.build.out_path}}/verbs.html)    
+{{/md}}
+

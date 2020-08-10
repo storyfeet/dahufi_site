@@ -1,6 +1,17 @@
->---toml
+{{export
 title="Adjectives:"
->---md
+}}{{@md}}
 
 Fast:
 Easy:
+Old: 
+Busy: 
+Musical:
+Enough:
+Soo:
+Little:
+Tiny:
+Tall:
+High:
+Deep:
+{{/md}}

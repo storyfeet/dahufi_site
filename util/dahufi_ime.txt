@@ -15,26 +15,26 @@ LICENSE = LGPL
 
 ### An unique id to distinguish this table among others.
 ### Use uuidgen to generate this kind of id.
-UUID = 3dbb9d5f-4c5f-4f2f-ac09-32867e95fe3e
+UUID = 882fa730-192f-4ed6-93ec-08f95ac88317
 
 
 ### A unique number indicates the version of this file.
 ### For example the last modified date of this file.
 ### This number must be less than 2^32.
 ### Just make your table version-able
-SERIAL_NUMBER = 20200712
+SERIAL_NUMBER = 20200810
 
 ### ICON can be any format as long as your pygtk can recognized
 ### the most widely ones are "png" and "svg", letter one is recommended
 ICON = ibus-table.svg
 
 ### The symbol to be displayed in IM switchers
-SYMBOL = 
+SYMBOL = 
 
 
 
 ### The default name of this table, this is needed
-NAME = Michuhu
+NAME = Dahufi
 
 ### The local names of this table, this is optional
 ### NAME.zh_CN = 形码
@@ -42,26 +42,26 @@ NAME = Michuhu
 ### NAME.zh_TW = 形碼
 
 ### Description
-DESCRIPTION = This is a keymap for building Michuhu language requires a Michuhu font
+DESCRIPTION = This is a keymap for building Dahufi language requires a Dahufi font
 
 ### Supported languages of this table
 ### sigle "zh_CN" just be recognized as zh_CN,
 ### but "zh_CN, zh_HK" or more zh_XX will be recognized as zh;
 ### and "en_US, zh_CN" will be just ignored.
-LANGUAGES = en_US
+LANGUAGES = en_UK
 
 ### The author of this table
 AUTHOR = Matthew Stoodley <matt.storyfeet@gmail.com> 
 
 ### Prompt string to be displayed in the status area, CN will be replaced by
 ### the gettext tools in runtime as 中.
-STATUS_PROMPT = MJH
+STATUS_PROMPT = Dahufi
 
 ### Valid input chars.
 VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyz
 
 ### Layout
-LAYOUT = us
+LAYOUT = en_UK
 
 ### The max number of input keys for every phrase or character.
 MAX_KEY_LENGTH = 3
@@ -133,6 +133,11 @@ END_DEFINITION
 ### the key combination you want; the 3rd column are frequency of the character
 ### or phrase.
 BEGIN_TABLE
+a		1
+i		1
+o		1
+u		1
+
 k		1
 d		1
 c		1
@@ -150,6 +155,12 @@ t		1
 th		1
 fl		1
 v		1
+l		1
+kl		1
+bl		1
+sh		1
+z		1
+
 
 ka		1
 da		1
@@ -168,6 +179,11 @@ ta		1
 tha		1
 v		1
 fla		1
+la		1
+kla		1
+bla		1
+sha		1
+za		1
 
 ki		1
 di		1
@@ -186,6 +202,11 @@ ti		1
 thi		1
 vi		1
 fli		1
+li		1
+kli		1
+bli		1
+shi		1
+zi		1
 
 ko		1
 do		1
@@ -204,6 +225,11 @@ to		1
 tho		1
 vo		1
 flo		1
+lo		1
+klo		1
+blo		1
+sho		1
+zo		1
 
 ku		1
 du		1
@@ -222,6 +248,11 @@ tu		1
 thu		1
 vu		1
 flu		1
+lu		1
+klu		1
+blu		1
+shu		1
+zu		1
 
 END_TABlE
 

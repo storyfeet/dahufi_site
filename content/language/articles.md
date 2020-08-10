@@ -1,28 +1,31 @@
 Pronouns :
 ==========
 
-I       :
-You     :
-(S)he   :
-He      :
-She     :
+I       :,
+You     :,
+(S)he   :,
+He      :,
+She     :,
+It		:,
 
-We      :
-Y'all   :
-They    :
+We      :,
+Y'all   :,
+They    :,
+Those Things :,
 
 Posessives Pronouns :
 =========================
 
-My      :
-Your    :
-Her/His :
-His     :
-Hers    :
-Our     :
-Y'alls  :
-Their   :
-
+My      :,
+Your    :,
+Her/His :,
+His     :,
+Hers    :,
+Our     :,
+Y'alls  :,
+Their   :,
+Its 	:,
+Those things': ,
 
 
 
@@ -30,56 +33,58 @@ Their   :
 Articles :
 ====================
 
-The		: "implied"
-A		:
-Some	:
-But     :
-And     :
-Or		:
-This	:
-That	:
-These	:
-Those	:
-All		: 
-Whole	: 
-So		: 
-Each	: 
-Without	: 
+The		: "implied",
+A		:,
+Some	:,
+But     :,
+And     :,
+Or		:,
+This	:,
+That	:,
+These	:,
+Those	:,
+All		: ,
+Whole	: ,
+So		: ,
+Each	: ,
+Without	: ,
+Also	: ,
+Of		: ,
 
 Comparative: 
 ============
 
-Like me: 
-Like you:
-Like this:
-Like that:
+Like me: ,
+Like you:,
+Like this:,
+Like that:,
 
 
 Questions :
 =================
-Is it		:
-When    	:
-Where   	:
-What    	:
-Why     	:
-How     	:
-Who     	:
-Whose   	:
-That		: (The ~ that ~)
+Is it		:,
+When    	:,
+Where   	:,
+What    	:,
+Why     	:,
+How     	:,
+Who     	:,
+Whose   	:,
+That		: (The ~ that ~),
 
 Answers
 =======
-Yes: 
-No: 
-Because: 
-And So: 
+Yes: ,
+No: ,
+Because: ,
+And So: ,
 
 
 
 Prepositions :
 =================
-On      :
-At      :
-With : 
-Close to : 
-From : 
+On      :,
+At      :,
+With : ,
+Close to : ,
+From : ,

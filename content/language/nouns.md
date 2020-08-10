@@ -13,6 +13,18 @@ Pea:
 Web:
 Website:
 Pen:
+Cloud:
+Table:
+
+
+Animals:
+-----------
+Bull:
+Cow:
+Rooster:
+Chicken:
+Egg:
+
 
 
 Family:
@@ -28,3 +40,31 @@ Boy:
 Son:
 Daugher:
 My Child: 
+
+Minerals:
+----------
+
+Gold:
+Silver:
+Iron:
+Mercury:
+
+
+Materials:
+----------
+Wood:
+
+
+Places:
+---------
+House:
+Castle:
+Door:
+Side:
+The world: 
+
+
+Music:
+---------
+
+Harp: 

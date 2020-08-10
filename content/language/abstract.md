@@ -1,8 +1,8 @@
 Abstract Concepts:
 ===========
 
-Anger	:
-Angry	:
+Anger	:
+Angry	:
 Disgust	:
 Love	:
 Heat	:
@@ -11,4 +11,7 @@ Joke	:
 Word	:
 Verb	:
 Adjective:
-Again	: 
+Again	:
+Flavour	:
+Value:
+Interest:

@@ -8,10 +8,17 @@ Verbs have three forms:
 Future is represented using  (Time Big) and past with  (Time Small)
 
 	I will be :   
+	You will go :   
+	He will eat :   
 
-This is a statement of future fact, intention can be done with. Note that to plan, puts the second verb into the infinitive, but the future fact statement does not.
+Or by stating a specific time in the future.
+
+	I'm going tomorrow :   
+
+These are statements of future fact, intention can be done with '' (To Plan) or '' (To wish) . Note that to plan, puts the second verb into the infinitive, but the future fact statement does not.
 
 	I plan to be :   
+	You  to be:
 
 The passive form of verbs is can be communicated using ''.
 
@@ -32,9 +39,9 @@ Core
 
 To Be:
 To Have:
-To Go:
+To Go:
 To Do:
-To Plan:
+To Plan:
 To Can ~:~
 To Ought:
 
@@ -50,7 +57,7 @@ To Smell: 
 To Sniff: 
 To Taste: 
 To Try a taste: 
-
+To Fear: 
 
 To Think: 
 -----------
@@ -62,7 +69,8 @@ To Feel:
 To Forget: 
 To Try to Remember:
 To Remember: 
-To Learn:To
+To Learn:
+
 
 To Move: 
 ------------
@@ -74,13 +82,19 @@ To Turn:
 To Arrive: 
 To Leave: 
 To Come: 
+To Slide: 
+To climb: 
+To Sneak: 
+To crawl: 
+
+
 
 To Communicate: 
 --------
 To Write:
 To Read:
 To Speak: 
-To Command : 
+To Command : 
 To Ask : 
 To Explain: 
 To Offer : 
@@ -90,12 +104,31 @@ To Whisper : 
 To Joke : 
 To Laugh: 
 To Welcome: 
+To Send: 
+
+To Live: 
+---------
+
+To Shower:
+To Bathe:
+To Sleep:
+To Kiss: 
+To Snog: 
+To reside: 
+To Give Birth:
+To Lay an Egg:
+To Excite:
+To Age: 
+
 
 Things: 
 -------
+
+To Reach: 
 To Hold: 
 To Give: 
 To Eat: 
+To Wish: 
 To Want: 
 To Make: 
 To Search: 
@@ -103,26 +136,18 @@ To Find: 
 To Thank: 
 To Heat: 
 To Use: 
-To Recieve:
+To Receive:
 To Turn:
 To Hit:
 To Empty:
-To Shower:
-To Bathe:
-To Sleep:
-To Kiss: 
-To Snog: 
 To Stop: 
-To Live: 
-To reside: 
 To Buy: 
 To Take: 
 To Sell: 
-To Age: 
 To Exchange: 
 To Join: 
 To Show: 
-To Start: 
+To Start: 
 To Break:
 To Try:
 To Design:

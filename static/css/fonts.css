@@ -2,16 +2,18 @@
     font-family:michuhu;
     src:url("/fonts/michuhu.ttf");
 }
-
-
-body{
-    font-family:michuhu,Arial;
+@font-face{
+    font-family:dahufi;
+    src:url("/fonts/dahufi.ttf");
 }
 
-html {
-    font-family:michuhu,Arial;
+
+
+
+body , html, input[type='text'],textarea{
+    font-family:dahufi,Arial;
 }
 
 code {
-    font-family:michuhu,mono;
+    font-family:dahufi,mono;
 }

@@ -1,7 +1,30 @@
-Time (Kid)
+Time:
 =======
-Later: 
+
+Later:
 Earlier:
+Each Time: 
+Tomorrow:
+The next day:
+The day before:
+Yesterday:
+Just:
+Now:
+Already:
+The beginning:
+Until:
+
+
+Times in the Day:  
+--------------------
+Sunrise: 
+Morning: 
+Afternoon: 
+Evening:
+Night: 
+
+
+
 
 Dates: 
 ------------
@@ -12,8 +35,6 @@ Day:
 Month:
 Year:
 Today: 
-Tomorrow:
-Yesterday:
 Next week:
 
 
@@ -23,7 +44,7 @@ Next week:
 
 Days of the week: 
 -------------------
-Monday      	:  
+Monday      	: 
 Tuesday     	: 
 Wednesday   	: 
 Thursday    	: 
@@ -33,13 +54,13 @@ Sunday		:
 
 Months: 
 --------------
-January: 
+January:
 February:
 March:
 April:
 May:
 June:
-July: 
+July:
 August:
 September: 
 October: 
@@ -48,12 +69,12 @@ December:
 
 Days of the month: 
 -----------------
-Use the Ordinal numbers 1st 2nd 3rd ect
+Use the Ordinal numbers 1st 2nd 3rd etc
 1st of the month : 
 
 
 
-Seasons : ( Time Colours) 
+Seasons : ( Time Colours)
 --------------
 
 Seasons are based on the Four natural elements.
@@ -62,5 +83,3 @@ Spring:  (Water)
 Summer:  (Fire)
 Autumn:  (Earth)
 Winter:  (Air)
-    
-
