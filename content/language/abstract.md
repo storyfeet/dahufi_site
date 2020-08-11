@@ -8,10 +8,15 @@ Love	:
 Heat	:
 Cold	:
 Joke	:
-Word	:
+Word	:
 Verb	:
 Adjective:
 Again	:
 Flavour	:
-Value:
+Value 	:
 Interest:
+Way/Path :
+Way/Method:,
+Road:,
+Steps:,
+Effort:,

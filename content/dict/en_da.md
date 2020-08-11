@@ -1,5 +1,6 @@
-{{export 
+{{export
 title = "English to Dahufi"
+dahufi = " "	 
 }}
 <script src="/js/filter.js"></script>
 
@@ -8,7 +9,7 @@ title = "English to Dahufi"
 
 <div class="dict">
 {{for k v in  split (exec "dahufi" "-e") }}
-<div class="dict_item">{{$k}} = {{$v}}</div>
+{{if eq (mod $k 50) 0}} </div><br><div class="dict">{{/if}}
+<div class="dict_item">{{$v}}</div>
 {{/for}}
 </div>
-

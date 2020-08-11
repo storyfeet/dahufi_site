@@ -14,4 +14,10 @@ Tiny:
 Tall:
 High:
 Deep:
+Happy:
+Easy:
+Hard(Effort):
+Hard(Solid):
+Alone:
+Young:
 {{/md}}

@@ -7,14 +7,31 @@ Shop:
 Market:
 Language:
 Bed:
-Bean:
-Beanstalk:
-Pea:
 Web:
 Website:
 Pen:
 Cloud:
 Table:
+
+
+Plants:
+---------
+Bean:
+Beanstalk:
+Pea:
+Grass:
+Straw:
+Switch:
+Stick:
+
+
+Electrical:
+-----------
+Lamp:
+Light:
+LampSwitch: 
+Computer: 
+
 
 
 Animals:
@@ -24,7 +41,7 @@ Cow:
 Rooster:
 Chicken:
 Egg:
-
+Pig:
 
 
 Family:
@@ -52,7 +69,9 @@ Mercury:
 
 Materials:
 ----------
-Wood:
+Wood:,
+Brick:,
+
 
 
 Places:

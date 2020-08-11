@@ -13,6 +13,10 @@ Now:
 Already:
 The beginning:
 Until:
+Then/Next : 
+Always: 
+In the end: 
+
 
 
 Times in the Day:  

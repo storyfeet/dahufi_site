@@ -36,17 +36,18 @@ Articles :
 The		: "implied",
 A		:,
 Some	:,
+Several :,
 But     :,
 And     :,
-Or		:,
-This	:,
+Or		:,
+This	:,
 That	:,
-These	:,
+These	:,
 Those	:,
 All		: ,
 Whole	: ,
 So		: ,
-Each	: ,
+Each	: ,
 Without	: ,
 Also	: ,
 Of		: ,
@@ -56,7 +57,7 @@ Comparative: 
 
 Like me: ,
 Like you:,
-Like this:,
+Like this:,
 Like that:,
 
 
@@ -71,6 +72,7 @@ How     	:,
 Who     	:,
 Whose   	:,
 That		: (The ~ that ~),
+Which		:,
 
 Answers
 =======
@@ -78,8 +80,7 @@ Yes: ,
 No: ,
 Because: ,
 And So: ,
-
-
+While : ,
 
 Prepositions :
 =================
@@ -87,4 +88,6 @@ On      :,
 At      :,
 With : ,
 Close to : ,
-From : ,
+From : ,
+Beside: ,
+Out : ,

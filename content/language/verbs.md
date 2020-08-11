@@ -23,7 +23,7 @@ These are statements of future fact, intention can be done with '' (To Pla
 The passive form of verbs is can be communicated using ''.
 
 	I eat :  
-	I am eaten :   
+	I am eaten :   
 	I ate :   
 	I was eaten :    
 
@@ -31,7 +31,7 @@ The passive form of verbs is can be communicated using ''.
 More examples
 
 	Are you going swimming? :     ?
-	Have you eaten yet? :    ?
+	Have you eaten yet? :    ?
 
 
 Core
@@ -74,51 +74,56 @@ To Learn:
 
 To Move: 
 ------------
-To Swim: 
-To Walk: 
-To Run: 
-To Push:
-To Turn:
-To Arrive: 
-To Leave: 
-To Come: 
-To Slide: 
-To climb: 
-To Sneak: 
-To crawl: 
-
+To Swim: ,
+To Walk: ,
+To Run: ,
+To Push:,
+To Turn:,
+To Arrive: ,
+To Leave: ,
+To Come: ,
+To Slide: ,
+To climb: ,
+To Sneak: ,
+To Crawl: ,
+To Fall: ,
 
 
 To Communicate: 
 --------
-To Write:
-To Read:
-To Speak: 
-To Command : 
-To Ask : 
-To Explain: 
-To Offer : 
-To Exclaim : 
-To Request : 
-To Whisper : 
-To Joke : 
-To Laugh: 
-To Welcome: 
-To Send: 
+To Write:,
+To Read:,
+To Speak: ,
+To Command : ,
+To Ask : ,
+To Explain: ,
+To Offer : ,
+To Exclaim : ,
+To Request : ,
+To Whisper : ,
+To Joke : ,
+To Laugh: ,
+To Welcome: ,
+To Send: ,
+To Argue: ,
+To Invite: ,
+To Explete: ,
+To Promise: ,
 
-To Live: 
+
+To Live: ,
 ---------
 
-To Shower:
-To Bathe:
-To Sleep:
-To Kiss: 
-To Snog: 
-To reside: 
-To Give Birth:
-To Lay an Egg:
-To Excite:
-To Age: 
+To Shower:,
+To Bathe:,
+To Sleep:,
+To Kiss: ,
+To Snog: ,
+To reside: ,
+To Give Birth:,
+To Lay an Egg:,
+To Excite:,
+To Age: ,
 
 
 Things: 
@@ -130,25 +135,34 @@ To Give: 
 To Eat: 
 To Wish: 
 To Want: 
+To Need: ,
 To Make: 
-To Search: 
-To Find: 
-To Thank: 
-To Heat: 
-To Use: 
-To Receive:
-To Turn:
-To Hit:
-To Empty:
-To Stop: 
-To Buy: 
-To Take: 
-To Sell: 
-To Exchange: 
-To Join: 
-To Show: 
-To Start: 
-To Break:
-To Try:
-To Design:
-To Oversee:
+To Build: ,
+To Work: ,
+To Search: ,
+To Find: ,
+To Thank: ,
+To Heat: ,
+To Use: ,
+To Receive:,
+To Empty:,
+To Stop: ,
+To Buy: ,
+To Take: ,
+To Sell: ,
+To Exchange: ,
+To Join: ,
+To Show: ,
+To Start: ,
+To Break:,
+To Try:,
+To Design:,
+To Oversee:,
+To Fetch :,
+To Throw: ,
+To Catch: ,
+To Chop:,
+To Cut:,
+To Finish:,
+To Stop:,
+To Drive:,

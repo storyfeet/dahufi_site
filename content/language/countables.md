@@ -12,9 +12,10 @@ Eg
 	 23 : 
 
 The key number roots:
-    Number  : Ko
-    Ordinal : ~W
-    Cardinal: ~N
+    Number  : 
+	Minus	: 
+    Ordinal : 
+    Cardinal: 
     0 : 
     1 : 
     2 : 
@@ -34,6 +35,7 @@ Example Numbers:
     10: 
     11: 
     12: 
+	-5: 
 
 use  to raise by 10^n
 
@@ -58,6 +60,15 @@ Use 'su' To represent a decimal point
     3.4 : 
 
 
+Order:
+--------
+First:
+Second:
+Third:
+...
+Last:
+Second last:
+
 Countables:
 ==========
 
@@ -76,19 +87,20 @@ Blue    : 
 Violet  : 
 White   : 
 
-Shapes : 
+Shapes : 
 =======
 
-Circle : 
-Line: 
-Triangle : 
-Regular Triangle:
-Quadrilateral : 
-Square: 
-Trapesium : 
-Parallelagram:
-Parallel: 
-Pentagon: 
-Pentagram: 
-Hexagon: 
+Circle : ,
+Line: ,
+Triangle : 
+Regular Triangle:
+Quadrilateral : 
+Square: 
+Trapesium : 
+Parallelagram:
+Parallel: 
+Pentagon: 
+Pentagram: 
+Hexagon: 
+Cross: 
 {{/md}}

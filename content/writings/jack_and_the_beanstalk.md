@@ -1,6 +1,6 @@
 {{export
 title="Jack and the BeanStalk"
-michuhu="  "
+dahufi="  "
 }}
 {{@md}}
 
@@ -62,7 +62,10 @@ The castle's door was also huge and Jack could sneak under it. Once he was insid
 
 "   !!      "  
 
-"Feed Fai Foud fud!!" (Feet move to cause food) "I small the blood of a Small person"
+"Feed Fai Foub fud!!" (Feet move to cause food) "I small the blood of a Small person"
 
- ,    , .
+ ,    , . 
+
+
+
 {{/md}}

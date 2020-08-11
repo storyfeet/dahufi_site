@@ -1,7 +1,7 @@
 
 .lang_table td:nth-child(1) , th{
 	font-weight:bold;
-	background-color:#aaaaaa;	
+	background-color:#aaaaaa;
 }
 
 .lang_table td , .lang_table th{
@@ -18,5 +18,12 @@
 }
 
 .dict_item{
-    padding:3px;    
+    padding:3px;
+	border-right:solid black 1px;
+}
+
+.top_panel {
+	background-color: #aaaaaa;
+	padding :10px;
+	margin :0px;
 }
