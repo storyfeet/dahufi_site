@@ -1,9 +1,7 @@
 {{export
-title = "The Michuhu Language :  ";
+title = "The Michuhu Language"
+dahufi = " ";
 }}{{@md}}
-
-[Language Docs](/language)
-[Writings](/writings)
 
 Welcome to the Michuhu Language Website.
 

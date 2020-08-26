@@ -5,20 +5,20 @@
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="/css/fonts.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <title>{{first $1.title "Michuhu Language Page"}}</title>
+    <title>{{first $0.title "Michuhu Language Page"}}</title>
 </head>
 <body>
 <div class="top_panel">
 <a href="/language">Language Docs</a> :: <a href="/writings">Writings</a> :: <a href = "/dict/en_da.html">Dictionary</a>
 <br><br>
-{{for k v in bread_crumbs "/" (with_ext $1.build.out_path "html")}}\
+{{for k v in bread_crumbs "/" (with_ext $0.build.out_path "html")}}\
 {{let b = base_name_sure $v }}\
 	/ <a href="{{$v}}"> {{select $b $b "home"}} </a>
 {{/for}}
 </div>
 
 
-{{if $1.title}}<h1>{{$1.title}} - {{first $1.dahufi ""}}</h1>{{/if}}
-    {{$0}}
+{{if $0.title}}<h1>{{$0.title}} - {{first $0.dahufi ""}}</h1>{{/if}}
+    {{$1}}
 </body>
 </html>

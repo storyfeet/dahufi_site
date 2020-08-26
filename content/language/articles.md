@@ -1,3 +1,8 @@
+{{export
+title="Articles"
+dahufi=""
+}}{{@md}}
+
 Pronouns :
 ==========
 
@@ -41,7 +46,7 @@ But     :,
 And     :,
 Or		:,
 This	:,
-That	:,
+That (Thing)	:,
 These	:,
 Those	:,
 All		: ,
@@ -51,6 +56,7 @@ Each	: ,
 Without	: ,
 Also	: ,
 Of		: ,
+That (Idea) : 
 
 Comparative: 
 ============
@@ -79,8 +85,8 @@ Answers
 Yes: ,
 No: ,
 Because: ,
-And So: ,
-While : ,
+And So: ,
+While : ,
 
 Prepositions :
 =================
@@ -91,3 +97,5 @@ Close to : ,
 From : ,
 Beside: ,
 Out : ,
+
+{{/md}}

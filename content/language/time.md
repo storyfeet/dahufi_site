@@ -1,3 +1,9 @@
+{{export
+title="time"
+dahufi=""
+}}{{@md}}
+
+
 Time:
 =======
 
@@ -10,13 +16,15 @@ The day before:
 Yesterday:
 Just:
 Now:
+At that time:
 Already:
 The beginning:
 Until:
 Then/Next : 
 Always: 
 In the end: 
-
+Still:
+When ~: ~
 
 
 Times in the Day:  
@@ -27,13 +35,14 @@ Afternoon: 
 Evening:
 Night: 
 
-
+Hour:
+~ Oclock : ~
 
 
 Dates: 
 ------------
 What is the date? :  ?
-What day is it today:    ?
+What day is it today?:    ?
 
 Day:
 Month:
@@ -87,3 +96,6 @@ Spring:  (Water)
 Summer:  (Fire)
 Autumn:  (Earth)
 Winter:  (Air)
+
+
+{{/md}}

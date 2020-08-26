@@ -52,7 +52,7 @@ But when he got to the top, he saw a very big castle on the clouds. He couldn't 
 
 "Wow" said Jack, "That castle is huge".
 
-    ,      .           .       .
+    ,      .           .       .
 
 The castle's door was also huge and Jack could sneak under it. Once he was inside he saw a big table and on it a hen. He climbed up and watched saw the hen lay a golden egg.
 
@@ -60,11 +60,33 @@ The castle's door was also huge and Jack could sneak under it. Once he was insid
 
 "Wow" said Jack again. "I have got to get me one of those." He tried take an Fgg but as he did, he heard footsteps approaching him, and then a voice saying:
 
-"   !!      "  
+"   !!      "  
 
-"Feed Fai Foub fud!!" (Feet move to cause food) "I small the blood of a Small person"
+"Fees Fai Foub fud!!" (Feet move to cause food) "I small the blood of a Small person"
 
- ,    , . 
+ .      .
+
+Jack was terrified. He grabbed the hen and ran to the beanstalk.
+
+       .        .
+
+He arrived before the Giant then started to climb down. When he arrived he gave the hen to his mother.
+
+  " ,    ".
+
+She said, "Very good, but a cow is worth much more."
+
+      .   .
+
+Jack explained that the hen laid golden eggs, and suddenly she was happy.
+
+"        ."  .
+
+"Tomorrow, Go again, and see what else you can find", She ordered.
+
+   
+
+
 
 
 

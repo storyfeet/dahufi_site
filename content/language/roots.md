@@ -1,6 +1,7 @@
 {{export
 title = "Michihu Roots :  "
 date = "2020-07-16"
+priority = 3
 }}{{@md}}
 
 The following table Shows all of the Roots in the Dahufi language
@@ -20,13 +21,13 @@ The sound is the the Consonant followed by the vowel. More on [Phonics](/languag
 |F 	4	| : Move 4	| : Foot   	| :cause	| :Food   	| :Female	 |
 |W 	5	| : Group	| : Flat	| :Locate	| :Feel 5	|:Location|
 |M 	6	|: Person	| :Close 6	| :Mouth	| :Lack	| :Male	 |
-|J 	7	| : Earth	| : Heart 7	| : Long	| :Play	| 		 |
+|J 	7	| : Earth	| : Heart 7	| : Long	| :Play	| :Shape	 |
 |B 	8	|:Please 8	| :Passive 	| : Ball	| :Good	|:infinitive |
 |N 	9	| : Against| : Skip	| : Nose	| :New 9	|:Cardinal	 |
 |Th  	| : Rest  		|: Change	| :Tongue	|:Open 	|:Doer of|
-|Fl 	| : Ear	| : Hit	| : Ice	| :Air	| 		 |
-|L 	|  : Help	|  : Side	|  : Strong	|:Break |:Shape |
-|Kl 	| | | |||
+|Fl 	| : Ear	| : Hit	| : Ice	| :Air	| 		 |
+|L 	|  : Help	|  : Side	|  : Strong	|:Break |:Direction |
+|Ng 	| :Tooth| | |:Chord||
 |Bl  	| |  : Dry | | | |
 |sh  	|  : Mix |:End|| ||
 {{/table}}
@@ -37,5 +38,45 @@ Roots for consideration
 --------------------
 
 Force, Mineral, Chord, Free, Bone, Stomach,Arm, Leg,Wide, Bend, Electric,Cover,
+
+
+Roots in Detail
+----------------
+
+###  - Identifier
+
+'' is used to mark that an identifier is coming, names and the like all begin with a ''.
+
+Matthew : 
+Natasha : 
+
+###  - Time
+
+'' at the beginning of a word indicates that the word is a time phrase.
+
+This morning:  
+
+'' at the end of a verb indicates that we are talking about 'when/while' that verb happens
+
+While he was swimming :  
+When I arrived :  
+
+###  - Number
+
+'' indicates a number coming, or something relating to [numbers](/docs/language/countables.html)
+
+3 : 
+
+Many : 
+More : 
+Too many : 
+
+###  - Colour / Flavour / Style
+
+if a word begins with '' it is a color, but if the '' appears in the middle of a word, it often indicates Some kind of flavour for that item.
+
+ : To Explete
+ : Taste
+ : Season
 
 {{/md}}

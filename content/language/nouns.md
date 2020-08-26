@@ -1,3 +1,8 @@
+{{export
+title="Nouns"
+dahufi=""
+}}{{@md}}
+
 Nouns: 
 ====
 
@@ -12,17 +17,10 @@ Website:
 Pen:
 Cloud:
 Table:
+Pointer:
 
 
-Plants:
----------
-Bean:
-Beanstalk:
-Pea:
-Grass:
-Straw:
-Switch:
-Stick:
+
 
 
 Electrical:
@@ -31,17 +29,14 @@ Lamp:
 Light:
 LampSwitch: 
 Computer: 
+Fridge:
+Freezer:
+Kettle:,
+Heater:
+Switch:
 
 
 
-Animals:
------------
-Bull:
-Cow:
-Rooster:
-Chicken:
-Egg:
-Pig:
 
 
 Family:
@@ -57,6 +52,9 @@ Boy:
 Son:
 Daugher:
 My Child: 
+Brother:
+Sister:,
+Sibling:,
 
 Minerals:
 ----------
@@ -78,12 +76,27 @@ Places:
 ---------
 House:
 Castle:
-Door:
+Door:
 Side:
 The world: 
+Cupboard:
 
 
 Music:
 ---------
 
 Harp: 
+
+
+
+Body:
+---------
+Chin:
+Hair:
+Fur:
+Body Hair:
+Finger:
+Toe:
+Index Finger:
+
+{{/md}}

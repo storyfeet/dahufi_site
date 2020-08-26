@@ -1,4 +1,4 @@
-{{let 
+{{let
 title = "The Michuhu Language :  ";
 date = "2020-07-16"
 }}
@@ -19,9 +19,28 @@ The best place to start understanding the language is to understand the roots, a
 
 Here are the documents about the language
 
-[Roots - Start Here]({{parent $0.build.out_path}}/roots.html)    
-[Articles]({{parent $0.build.out_path}}/articles.html)    
-[Countables]({{parent $0.build.out_path}}/countables.html)    
-[Verbs]({{parent $0.build.out_path}}/verbs.html)    
-{{/md}}
+{{let bp=(parent $0.build.out_path)}}
 
+[Phonics - ]({{$bp}}/phonics.html)    
+[Roots - ]({{$bp}}/roots.html)
+
+[Articles - ]({{$bp}}/articles.html)    
+[Adjectives - ]({{$bp}}/adjectives.html)    
+[Countables -   ]({{$bp}}/countables.html)    
+[Verbs - ]({{$bp}}/verbs.html)    
+[Abstract Concepts -  ]({{$bp}}/abstract.html)    
+[Living Things -  ]({{$bp}}/living_things.html)    
+[Nouns - ]({{$bp}}/nouns.html)    
+[Time - ]({{$bp}}/time.html)    
+
+Or the Magic List:
+--------------
+
+{{for k v in $0.lang_docs}}
+[{{first $v.title "TITLE MISSING"}} - {{first $v.dahufi ""}}](/{{join $bp $v.item_file}})
+{{/for}}
+
+
+
+
+{{/md}}

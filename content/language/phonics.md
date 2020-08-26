@@ -12,8 +12,10 @@ I and O can be said in one of two ways depending on what is most comfortable at 
 {{/md}}{{@table @ "class=\"lang_table\""}}
 * | PHONICS |   		|  		|  		|  		|
 | Primary | a [Cat] | i [King] | o [Kong] | u [coup] |
-| Secondary|	| ee [keep]  | ou [Comb]| | |
+| Secondary|	| ee [keep]  | ou [Comb]| |
 {{/table}}{{@md}}
+
+
 
 
 

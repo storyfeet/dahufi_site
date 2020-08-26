@@ -1,5 +1,6 @@
 {{export
-title="Adjectives:"
+title="Adjectives"
+dahufi=""
 }}{{@md}}
 
 Fast:
@@ -20,4 +21,5 @@ Hard(Effort):
 Hard(Solid):
 Alone:
 Young:
+Valuable:
 {{/md}}

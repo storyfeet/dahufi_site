@@ -1,4 +1,4 @@
-Verbs :
+Verbs : 
 ========
 Verbs have three forms:
 * Infinitive 		: Ends in 
@@ -83,10 +83,13 @@ To Arrive: ,
 To Leave: ,
 To Come: ,
 To Slide: ,
-To climb: ,
+To climb: ,
 To Sneak: ,
 To Crawl: ,
 To Fall: ,
+To Move House: ,
+To Come in/To Enter:,
+
 
 
 To Communicate: 
@@ -109,6 +112,7 @@ To Argue: ,
 To Invite: ,
 To Explete: ,
 To Promise: ,
+To Plead:,
 
 
 To Live: ,
@@ -166,3 +170,5 @@ To Cut:,
 To Finish:,
 To Stop:,
 To Drive:,
+To Blow:,
+To Puff:,
