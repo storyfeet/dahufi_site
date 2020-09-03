@@ -1,7 +1,9 @@
-Abstract Concepts:
-===========
+{{export
+	title="Abstract Concepts"
+	dahufi=""
+}}{{@md}}
 
-Anger	:
+Anger	:	
 Angry	:
 Disgust	:
 Love	:
@@ -20,3 +22,6 @@ Way/Method:,
 Road:,
 Steps:,
 Effort:,
+A Writing:,
+
+{{/md}}

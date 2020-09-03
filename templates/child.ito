@@ -1,0 +1,6 @@
+{{let
+list=(sort_on (scan_dir (join "content" $0) 1) "-priority" "title" "item_file")
+}}
+{{for k v in $list}}
+[{{first $v.title "TITLE MISSING"}} - {{first $v.dahufi ""}}](/{{join $0 (stem $v.item_file )}})
+{{/for}}

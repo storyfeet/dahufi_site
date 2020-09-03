@@ -1,5 +1,6 @@
 {{export
 	title="Phonics"
+	priority=4
 }}{{@md}}
 
 Vowel sounds

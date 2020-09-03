@@ -1,8 +1,7 @@
 {{export
-title="time"
+title="Time"
 dahufi=""
 }}{{@md}}
-
 
 Time:
 =======
@@ -25,7 +24,6 @@ Always: 
 In the end: 
 Still:
 When ~: ~
-
 
 Times in the Day:  
 --------------------
@@ -50,10 +48,7 @@ Year:
 Today: 
 Next week:
 
-
 7/Jul/2020 :    
-
-
 
 Days of the week: 
 -------------------

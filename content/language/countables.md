@@ -1,41 +1,60 @@
-{{@md }}
-Numbers : 
-===========
+{{export
+	title="Numbers"
+	dahufi=""
+}}{{@md }}
 
-Numbers are written using arabic numarals, but can be spoken as below by starting with the Ko Root. Including the number info, and ending in either 'n' Cardinal, or 'w' for ordinal.
+Numbers are normally written using arabic numarals, though throughout this website they will be paired with their pronounciation. As they are spoken quite differently.
+
+Eg
+
+	~ 5 ~  ~
+	~ 34 ~  ~
 
 
-Short numbers can be simply , followed by a list of Digits ending in n
-To get large or small numbers beginning with a '  ' for 10^n or '' for 10^-n Where 'n' is the next digit. Muliple '  's require exactly the same number of digits for the exponent part.
+All numbers follow the pattern  ' < number > '  for cardinal/counting numbers,
+and ' < number > ' for ordinal/positional.
+
+The key number roots:
+-----------
+
+Number  :     
+Minus	:     
+Ordinal :     
+Cardinal:     
+0 :     
+1 :     
+2 :     
+3 :     
+4 :     
+5 :     
+6 :     
+7 :     
+8 :     
+9 :     
+
+Example Numbers
+--------
+8:      
+10:     
+11:     
+12: 
+39:     
+-5:     
+
+
+To get large numbers use '< e >< v.. >' to mean v..* 10 ^ e. Where the 'e' is the position of the first digit of the number.
+
+To get small numbers use '< e >< v.. >' to mean v..* 10 ^ e. Where the 'e' is the position of the first digit of the number.
+
+or '' for 10^-n Where 'n' is the next digit. Multiple '  's require exactly the same number of digits for the exponent part.
 
 Eg
 	 23 : 
 
-The key number roots:
-    Number  : 
-	Minus	: 
-    Ordinal : 
-    Cardinal: 
-    0 : 
-    1 : 
-    2 : 
-    3 : 
-    4 : 
-    5 : 
-    6 : 
-    7 : 
-    8 : 
-    9 : 
-    10^     :   (Zeros on the end)
-    10^-    :  ( Position after decimal point)
-    Point   : 
+    10^     :  (Zeros on the end)    
+    10^-    :  ( Position after decimal point)    
+    Point   :     
 
-Example Numbers:
-
-    10: 
-    11: 
-    12: 
-	-5: 
 
 use  to raise by 10^n
 

@@ -1,3 +1,6 @@
+{{export
+	as_index=true
+}}\
 <!Doctype html>
 <html>
 <head>
@@ -9,12 +12,15 @@
 </head>
 <body>
 <div class="top_panel">
-<a href="/language">Language Docs</a> :: <a href="/writings">Writings</a> :: <a href = "/dict/en_da.html">Dictionary</a>
+<a href="/language">Language Docs</a> :: <a href="/writings">Writings</a> :: <a href = "/dict">Dictionary</a>
 <br><br>
-{{for k v in bread_crumbs "/" (with_ext $0.build.out_path "html")}}\
-{{let b = base_name_sure $v }}\
-	/ <a href="{{$v}}"> {{select $b $b "home"}} </a>
-{{/for}}
+{{let bp = bread_crumbs $0.build.out_path}}\
+{{let blen = len $bp }}<a href="/">Home</a> \
+{{if gt $blen 2}}\
+	{{for k v in slice $bp 1 (sub $blen 1) }}\
+	/ <a href="/{{$v}}"> {{base_name_sure $v}} </a>
+	{{/for}}\
+{{/if}}
 </div>
 
 

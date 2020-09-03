@@ -1,7 +1,8 @@
 {{export
-title = "Michihu Roots :  "
-date = "2020-07-16"
-priority = 3
+title = "Michihu Roots"
+dahufi =" "
+date = 16/07/2020
+priority = 5
 }}{{@md}}
 
 The following table Shows all of the Roots in the Dahufi language

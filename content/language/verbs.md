@@ -1,9 +1,13 @@
-Verbs : 
-========
+{{export
+	title="Verbs"
+	dahufi=""
+	priority=2
+}}{{@md}}
+
 Verbs have three forms:
-* Infinitive 		: Ends in 
-* Imperitive		: Ends in 
-* Active/Continuous 	: Ends in 
+* Infinitive 		: Ends in     
+* Imperitive		: Ends in     
+* Active/Continuous 	: Ends in     
 
 Future is represented using  (Time Big) and past with  (Time Small)
 
@@ -172,3 +176,5 @@ To Stop:,
 To Drive:,
 To Blow:,
 To Puff:,
+
+{{/md}}

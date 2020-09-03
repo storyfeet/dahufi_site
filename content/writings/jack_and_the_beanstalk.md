@@ -86,8 +86,4 @@ Jack explained that the hen laid golden eggs, and suddenly she was happy.
 
    
 
-
-
-
-
 {{/md}}

@@ -1,26 +1,24 @@
 {{export
 title="Nouns"
 dahufi=""
+priority=3
 }}{{@md}}
 
-Nouns: 
-====
+Basic:
+--------
 
-Magic:
-Money:
-Shop:
-Market:
-Language:
-Bed:
-Web:
-Website:
-Pen:
-Cloud:
-Table:
-Pointer:
-
-
-
+Magic:,
+Money:,
+Shop:,
+Market:,
+Language:,
+Bed:,
+Web:,
+Website:,
+Pen:,
+Cloud:,
+Table:,
+Pointer:,
 
 
 Electrical:
@@ -34,9 +32,6 @@ Freezer:
 Kettle:,
 Heater:
 Switch:
-
-
-
 
 
 Family:
@@ -71,7 +66,6 @@ Wood:,
 Brick:,
 
 
-
 Places:
 ---------
 House:
@@ -86,7 +80,6 @@ Music:
 ---------
 
 Harp: 
-
 
 
 Body:
