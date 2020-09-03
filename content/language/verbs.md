@@ -74,12 +74,15 @@ To Forget: 
 To Try to Remember:
 To Remember: 
 To Learn:
+To Like:
+
 
 
 To Move: 
 ------------
 To Swim: ,
 To Walk: ,
+To Step: ,
 To Run: ,
 To Push:,
 To Turn:,
@@ -93,8 +96,9 @@ To Crawl: ,
 To Fall: ,
 To Move House: ,
 To Come in/To Enter:,
-
-
+To Play: ,
+To Play (Music): 
+To Jump:
 
 To Communicate: 
 --------
@@ -127,7 +131,9 @@ To Bathe:,
 To Sleep:,
 To Kiss: ,
 To Snog: ,
-To reside: ,
+To Reside: ,
+To Reside With: ,
+To Live With : ,
 To Give Birth:,
 To Lay an Egg:,
 To Excite:,
@@ -169,7 +175,7 @@ To Oversee:,
 To Fetch :,
 To Throw: ,
 To Catch: ,
-To Chop:,
+To Chop Down:,
 To Cut:,
 To Finish:,
 To Stop:,

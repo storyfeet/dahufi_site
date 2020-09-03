@@ -3,7 +3,7 @@
 	dahufi=""
 }}{{@md}}
 
-Anger	:	
+Anger	:
 Angry	:
 Disgust	:
 Love	:
@@ -23,5 +23,7 @@ Road:,
 Steps:,
 Effort:,
 A Writing:,
+Sound:,  
+Noise:,  
 
 {{/md}}

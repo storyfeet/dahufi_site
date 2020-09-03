@@ -25,10 +25,10 @@ The sound is the the Consonant followed by the vowel. More on [Phonics](/languag
 |J 	7	| : Earth	| : Heart 7	| : Long	| :Play	| :Shape	 |
 |B 	8	|:Please 8	| :Passive 	| : Ball	| :Good	|:infinitive |
 |N 	9	| : Against| : Skip	| : Nose	| :New 9	|:Cardinal	 |
-|Th  	| : Rest  		|: Change	| :Tongue	|:Open 	|:Doer of|
+|Th  	| : Rest  		|: Change	| :Tongue	|:Open 	|:Doer of (Thing)|
 |Fl 	| : Ear	| : Hit	| : Ice	| :Air	| 		 |
 |L 	|  : Help	|  : Side	|  : Strong	|:Break |:Direction |
-|Ng 	| :Tooth| | |:Chord||
+|Ng 	| :Tooth| | |:Chord|:Doer of (Person)|
 |Bl  	| |  : Dry | | | |
 |sh  	|  : Mix |:End|| ||
 {{/table}}

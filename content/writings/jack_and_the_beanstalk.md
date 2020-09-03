@@ -1,10 +1,10 @@
 {{export
 title="Jack and the BeanStalk"
-dahufi="  "
+dahufi="  "
 }}
 {{@md}}
 
-      .         .
+      .         .
 
 Once there was a boy called Jack, He lived with his mother and they were poor .
 
@@ -84,6 +84,30 @@ Jack explained that the hen laid golden eggs, and suddenly she was happy.
 
 "Tomorrow, Go again, and see what else you can find", She ordered.
 
-   
+     .         .
+
+So the next day, Jack climbed the beanstalk again. Once inside the castle he saw a harp that was playing itself.
+
+   .  .     ,      .
+
+Jack rested and listened to the music. It was beautiful. But because he was listening to the harp, he didn't hear the Giant approaching.
+
+     .     . ,    ,    
+
+The Giant stepped up to the table and jack screamed.  He grabbed the harp and ran towards the Beanstalk.  Thankfully, he arrived before the Giant and jumped down to the Beanstalk.
+
+        .        " !!"
+
+The Giant also began to climb down the beanstalk, so Jack climbed quickly. As he reached the bottom he shouted to his mother "Fetch the Axe".
+
+          .     ,       .
+
+She ran and fetched the axe and threw it to Jack who quickly chopped down the Beanstalk. It fell to the ground with a big thump, and that was the end of the Giant.
+
+             .
+
+After that, Jack and his mother lived a happy life and they ate a golden egg every day.
+
+
 
 {{/md}}
