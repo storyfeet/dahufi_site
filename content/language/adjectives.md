@@ -5,7 +5,7 @@ dahufi=""
 
 Fast:
 Easy:
-Old: 
+Old: 
 Busy: 
 Musical:
 Enough:
@@ -13,6 +13,8 @@ Soo:
 Little:
 Tiny:
 Tall:
+Short(height):
+Short(time):
 High:
 Deep:
 Happy:

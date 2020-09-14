@@ -1,0 +1,6 @@
+file 'jack/jack_01-11.mp3'
+file 'jack/jack_13.mp3'
+file 'jack/jack_19.mp3'
+file 'jack/jack_25.mp3'
+file 'jack/jack_30.mp3'
+file 'jack/jack_34.mp3'

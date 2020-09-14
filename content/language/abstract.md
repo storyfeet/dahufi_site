@@ -25,5 +25,8 @@ Effort:,
 A Writing:,
 Sound:,  
 Noise:,  
+In exchange for:,
+Story:
+History:
 
 {{/md}}

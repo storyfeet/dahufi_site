@@ -164,7 +164,7 @@ To Stop: ,
 To Buy: ,
 To Take: ,
 To Sell: ,
-To Exchange: ,
+To Exchange: ,
 To Join: ,
 To Show: ,
 To Start: ,
@@ -182,5 +182,6 @@ To Stop:,
 To Drive:,
 To Blow:,
 To Puff:,
+To Last:
 
 {{/md}}

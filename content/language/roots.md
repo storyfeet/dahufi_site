@@ -1,6 +1,7 @@
 {{export
-title = "Michihu Roots"
-dahufi =" "
+title = "Roots"
+dahufi =""
+description="The Primary building blocks for the Dahufi language"
 date = 16/07/2020
 priority = 5
 }}{{@md}}

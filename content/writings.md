@@ -3,7 +3,9 @@
 	dahufi=""
 }}{{@md}}
 
-Here are some short stories written in the language of Michuhu
+Here are some short stories written in Dahufi
+
+     
 
 {{'child.ito' "writings"}}
 

@@ -1,0 +1,7 @@
+rm ../static/audio/jack.mp3
+rm flist.txt
+for f in jack/*.mp3
+    echo "file '$f'" >> flist.txt
+end
+ffmpeg -f concat -safe 0 -i flist.txt -c copy ../static/audio/jack.mp3
+

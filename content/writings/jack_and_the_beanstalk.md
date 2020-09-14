@@ -4,37 +4,40 @@ dahufi="  "
 }}
 {{@md}}
 
-      .         .
+[listen](/audio/jack.mp3)
+
+      .        .
 
 Once there was a boy called Jack, He lived with his mother and they were poor .
 
-    "    ".
+    "    ".
 
 His mother ordered him "Go to the market and sell our cow.
 
-      .     -5--   .
+          -5--   .
 
-Jack went, but on the way he met an old man. The offered jack 5 beans in exchange for the cow.
+Jack went, but on the way he met an old man who offered jack 5 beans in exchange for the cow.
 
-"-5--   f !!"   " "
+"-5--    f !!"   " "
 
-"5 beans for my cow!!" Laughed Jack, "You're Joking"
+"5 beans for my cow!!" Laughed Jack, "You're kidding"
 
-    "  .         "
+    " .
+        "
 
-But the man said, "These beans are magic. Don't you want to see what they will do"
+But the man said, "These beans are magic. Don't you want to see what they can do"
 
-      
+      
 
 Jack really wanted to see, so he made the exchange.
 
-   ,     "   .      (5:)  "
+  ,     "   .     ~5~  ~  "
 
 When Jack got home, He said to his mother. "I did good. I traded the cow for 5 Magic beans"
 
-      "   ,   !!          (4:) ."      .
+     "     ,   !!          ~4~  ~ ."      .
 
-Jacks mother was angry, and exclaimed: "I told you to sell it not give it away. It could have been sold for enough food to last us four months."  She sent him to bed without supper.
+Jacks mother angrily exclaimed: "I told you to sell it not give it away. It could have been sold for enough to last us four months."  She sent him to bed without supper.
 
  ,    .   ,          .
 
