@@ -12,7 +12,11 @@
 </head>
 <body>
 <div class="top_panel">
-<a href="/language">Language Docs</a> :: <a href="/writings">Writings</a> :: <a href = "/dict">Dictionary</a>
+<a href="/language">Language Docs</a> ::
+<a href="/writings">Writings</a> ::
+<a href = "/dict">Dictionary</a> ::
+<a href = "/get_involved">Get Involved</a> ::
+<a href = "/typing_area">Type Dahufi</a>
 <br><br>
 {{let bp = bread_crumbs $0.build.out_path}}\
 {{let blen = len $bp }}<a href="/">Home</a> \
@@ -25,6 +29,7 @@
 
 
 {{if $0.title}}<h1>{{$0.title}} - {{first $0.dahufi ""}}</h1>{{/if}}
+	{{if .author}}<p><i>By {{.author}}</i></p>{{/if}}
     {{$1}}
 </body>
 </html>

@@ -34,8 +34,9 @@ Heater:
 Switch:
 
 
-Family:
+Family:
 ======
+You're Family: 
 Mother:
 Father:
 Parent:
@@ -47,9 +48,9 @@ Boy:
 Son:
 Daugher:
 My Child: 
-Brother:
-Sister:,
-Sibling:,
+Brother:
+Sister:,
+Sibling:,
 
 Minerals:
 ----------
@@ -74,6 +75,13 @@ Door:
 Side:
 The world: 
 Cupboard:
+Wood(Forest):
+Road:,
+Start line:
+Chimney:
+Roof:
+
+
 
 
 Music:
@@ -95,6 +103,6 @@ Index Finger:
 Tools:
 ---------
 Axe:
-
+Pot:
 
 {{/md}}

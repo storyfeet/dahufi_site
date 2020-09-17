@@ -12,14 +12,15 @@
 }
 
 .dict {
-    display:flex;
-    flex-flow:row wrap;
+    /*display:flex;
+    flex-flow:row wrap;*/
     justify-content:space-between;
 }
 
 .dict_item{
     padding:3px;
 	border-right:solid black 1px;
+	white-space:pre;
 }
 
 .top_panel {

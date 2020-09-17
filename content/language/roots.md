@@ -8,7 +8,7 @@ priority = 5
 
 The following table Shows all of the Roots in the Dahufi language
 
-The sound is the the Consonant followed by the vowel. More on [Phonics](/language/phonics.html).
+The sound is the the Consonant followed by the vowel. More on [Phonics](/language/phonics).
 
 {{/md}}
 {{@table @ "class=\"lang_table\""}}
@@ -65,7 +65,7 @@ When I arrived :  
 
 ###  - Number
 
-'' indicates a number coming, or something relating to [numbers](/docs/language/countables.html)
+'' indicates a number coming, or something relating to [numbers](/docs/language/countables)
 
 3 : 
 

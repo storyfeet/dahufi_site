@@ -11,6 +11,8 @@ Mammals:
 Bull:
 Cow:
 Pig:
+Hare:
+Cat:
 
 
 Insects:
@@ -18,6 +20,9 @@ Insects:
 
 Lizards:
 --------
+Tortoise:
+
+
 
 Birds:
 ----------

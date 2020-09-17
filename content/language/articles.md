@@ -44,6 +44,8 @@ Some	:,
 Several :,
 But     :,
 And     :,
+But also:,
+Even though:,
 Or		:,
 This	:,
 That (Thing)	:,
@@ -98,5 +100,6 @@ Close to : ,
 From : ,
 Beside: ,
 Out : ,
+Through: 
 
 {{/md}}

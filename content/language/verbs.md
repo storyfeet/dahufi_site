@@ -65,16 +65,19 @@ To Fear: 
 
 To Think: 
 -----------
-To Hope:
-To Understand:
-To Believe:
-To Love:
-To Feel:
-To Forget: 
-To Try to Remember:
-To Remember: 
-To Learn:
-To Like:
+To Hope:,
+To Understand:,
+To Believe:,
+To Love:,
+To Feel:,
+To Forget: ,
+To Try to Remember:,
+To Remember: ,
+To Learn:,
+To Like:,
+To Know:,
+To Choose:,
+To Decide:,
 
 
 
@@ -99,10 +102,13 @@ To Come in/To Enter:,
 To Play: ,
 To Play (Music): 
 To Jump:
+To Continue:
+To knock:
 
 To Communicate: 
 --------
 To Write:,
+To Type:,
 To Read:,
 To Speak: ,
 To Command : ,
@@ -119,8 +125,11 @@ To Send: ,
 To Argue: ,
 To Invite: ,
 To Explete: ,
-To Promise: ,
+To Promise: ,
 To Plead:,
+To insist:,
+
+
 
 
 To Live: ,
@@ -183,5 +192,3 @@ To Drive:,
 To Blow:,
 To Puff:,
 To Last:
-
-{{/md}}

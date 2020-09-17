@@ -9,7 +9,6 @@ dahufi = " "
 
 <div class="dict">
 {{for k v in  split (exec "dahufi" "-e") }}
-{{if eq (mod $k 50) 0}} </div><br><div class="dict">{{/if}}
-<div class="dict_item">{{$v}}</div>
+<span class="dict_item">{{$v}}</span>
 {{/for}}
 </div>

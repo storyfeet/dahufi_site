@@ -21,6 +21,9 @@ The beginning:
 Until:
 Then/Next : 
 Always: 
+All the time:
+Forever(To the end):
+Again	:
 In the end: 
 Still:
 When ~: ~

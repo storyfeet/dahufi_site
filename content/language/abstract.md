@@ -3,30 +3,49 @@
 	dahufi=""
 }}{{@md}}
 
+Emotions:
+----------
 Anger	:
 Angry	:
 Disgust	:
 Love	:
-Heat	:
-Cold	:
+Interest:
+
+
+Ideas
+-------
 Joke	:
 Word	:
 Verb	:
 Adjective:
-Again	:
+Story:
+Way(Path):
+Way(Method):,
+Behaviour:
+Antics:
+
+
+
+Sense:
+------
 Flavour	:
 Value 	:
-Interest:
-Way/Path :
-Way/Method:,
-Road:,
+Cold	:
+Heat	:
+Noise:,  
+Sound:,  
+
+
+Events
+--------
 Steps:,
 Effort:,
-A Writing:,
-Sound:,  
-Noise:,  
 In exchange for:,
-Story:
 History:
-
-{{/md}}
+A Writing:,
+Meeting:
+Appointment:
+A Race:
+Chance(Opportunity):
+Long Shot:
+Choice:
